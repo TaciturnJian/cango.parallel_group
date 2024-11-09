@@ -1,0 +1,11 @@
+
+# build output
+[Bb]uild/
+[Oo]ut/
+
+# visual studio contents
+.vs/
+CMakeSettings.json
+
+# clion contents
+.idea/
